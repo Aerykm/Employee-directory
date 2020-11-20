@@ -1,0 +1,7 @@
+.header{
+    background-color: gold;
+    color: white;
+    border-bottom: solid 5px black;
+    text-align: center;
+    min-width: 100vw;
+}

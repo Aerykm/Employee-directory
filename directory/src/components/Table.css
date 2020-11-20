@@ -1,0 +1,16 @@
+.table{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-width: 100vw;
+}
+
+th, tr {
+    border: 2px solid wheat
+}
+
+tr:nth-child(even) {
+    background-color:cornsilk;
+}
